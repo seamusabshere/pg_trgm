@@ -1,5 +1,7 @@
 # PgTrgm
 
+[![Build Status](https://travis-ci.com/seamusabshere/pg_trgm.svg?branch=master)](https://travis-ci.com/seamusabshere/pg_trgm)
+
 Other Ruby trigram similarity libraries don't give the same results as postgres. This one does.
 
 ## Usage
